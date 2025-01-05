@@ -84,5 +84,4 @@ questions in this brief, and recommendations for Instacart stakeholders.
 
 ● Final report contains data citation for Instacart and customer data sets.
 
-
-
+(https://public.tableau.com/views/UnveilingtheGlobalStoryofLifeExpectancyTrendsChallengesandOpportunities/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
